@@ -1,0 +1,19 @@
+My associate id:
+845111
+Other team members:
+845027,845111,845110,845025
+Team lead:
+845027
+My Role in team:
+1. To develop view details of gift cards and contact us page
+My development files:
+1.contactus
+2.view
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+I was weak in:
+1. Javascript Validation
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
